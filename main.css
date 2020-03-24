@@ -42,16 +42,21 @@ section {
 }
 
 .thing_1 {
-  color: #2E9CCA
+  color: rgb(87, 201, 250) ;
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 120%;
 }
 
 .thing_2 {
   text-align: left;
+  padding: 50px;
 }
 
 .thing_3 {
   color: white;
   text-align: left;
+  padding: 50px;
 }
 
 .thing_4 {
@@ -64,7 +69,7 @@ section {
 }
 
 a {
-  color: #29648A;
+  color: rgb(239, 253, 176);
 }
 
 .Mug_Shot {
